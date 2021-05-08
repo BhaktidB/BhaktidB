@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhaktidB Bhakti Deepak Bailurkar
 - 👀 I’m interested in Drawing, Dreaming, Anime
-- 🌱 I’m currently learning BE
+- 🌱 I’m in SE Computer Engineering
 - 💞️ I’m looking to collaborate on Group Projects
 - 📫 How to reach me bailurkar.bhakti@gmail.com
 
